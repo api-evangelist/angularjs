@@ -1,15 +1,12 @@
 name: AngularJS
-description: A structural framework for dynamic web applications, maintained by 
-  Google and the community. AngularJS lets you extend HTML vocabulary for your 
-  application, resulting in an expressive, readable, and quick to develop 
-  environment.
+description: A structural framework for dynamic web applications, maintained by Google and the community. AngularJS lets you extend HTML vocabulary for your application, resulting in an expressive, readable, and quick to develop environment.
 image: https://angularjs.org/img/angularjs-logo.png
 tags:
-  - JavaScript
   - Framework
   - Frontend
-  - Single Page Application
   - Google
+  - JavaScript
+  - Single Page Application
 created: '2024-01-01'
 modified: '2024-01-01'
 url: https://angularjs.org
@@ -22,8 +19,8 @@ apis:
     humanURL: https://angularjs.org
     baseURL: https://code.angularjs.org
     tags:
-      - JavaScript
       - Framework
+      - JavaScript
       - MVC
     properties:
       - type: Documentation
