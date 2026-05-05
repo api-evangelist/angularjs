@@ -1,0 +1,13 @@
+{
+  "repo": "angularjs",
+  "feeds": [
+    {
+      "source": "https://blog.angular.io",
+      "feed_url": "https://blog.angular.dev/feed",
+      "saved": 10,
+      "title": "Angular Blog - Medium"
+    }
+  ],
+  "post_count": 10,
+  "fetched": "2026-05-03T23:22:03Z"
+}
