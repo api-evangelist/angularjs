@@ -3,11 +3,12 @@
   "feeds": [
     {
       "source": "https://blog.angular.io",
-      "feed_url": "https://blog.angular.dev/feed",
-      "saved": 10,
-      "title": "Angular Blog - Medium"
+      "feed_url": "",
+      "title": "",
+      "saved": 0,
+      "error": "no_feed"
     }
   ],
   "post_count": 10,
-  "fetched": "2026-05-03T23:22:03Z"
+  "fetched": "2026-05-09T20:17:51Z"
 }
