@@ -80,6 +80,8 @@ common:
   - url: https://docs.angularjs.org/misc/migrate
     name: Migration Guide to Modern Angular
     type: Guide
+  - type: LLMsTxt
+    url: https://docs.angularjs.org/llms.txt
 created: '2024-01-01'
 modified: '2026-04-19'
 specificationVersion: '0.19'
