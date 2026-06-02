@@ -2,12 +2,17 @@
   "repo": "angularjs",
   "feeds": [
     {
-      "source": "https://blog.angular.io",
+      "source": "https://blog.angular.dev/feed",
       "feed_url": "https://blog.angular.dev/feed",
-      "title": "Angular Blog - Medium",
-      "saved": 4
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://blog.angular.io",
+      "error": "HTTPError"
     }
   ],
   "post_count": 14,
-  "fetched": "2026-05-17T20:48:52Z"
+  "fetched": "2026-06-01T23:35:02Z"
 }
