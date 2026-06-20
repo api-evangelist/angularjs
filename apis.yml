@@ -13,7 +13,7 @@ apis:
       - Legacy
       - MVC
       - Services
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     baseURL: https://code.angularjs.org
     humanURL: https://docs.angularjs.org/api
     properties:
@@ -44,7 +44,7 @@ tags:
   - Open Source
   - Single Page Application
 type: Index
-image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 access: Open Source
 common:
   - url: https://angularjs.org/
