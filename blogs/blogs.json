@@ -5,14 +5,17 @@
       "source": "https://blog.angular.dev/feed/",
       "feed_url": "https://blog.angular.dev/feed/",
       "title": "",
-      "saved": 0,
+      "saved": 1,
       "method": "feed"
     },
     {
       "source": "https://blog.angular.io",
-      "error": "HTTPError"
+      "feed_url": "https://blog.angular.dev/feed",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
     }
   ],
-  "post_count": 16,
-  "fetched": "2026-06-14T20:42:17Z"
+  "post_count": 18,
+  "fetched": "2026-06-27T12:03:07Z"
 }
