@@ -47,6 +47,8 @@ type: Index
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 access: Open Source
 common:
+  - type: DomainSecurity
+    url: security/angularjs-domain-security.yml
   - url: https://angularjs.org/
     name: AngularJS Website
     type: Website
