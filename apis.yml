@@ -98,7 +98,7 @@ common:
     url: https://docs.angularjs.org/llms.txt
 created: '2024-01-01'
 modified: '2026-04-19'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 description: >-
   AngularJS (Angular.js, version 1.x) is the original Angular JavaScript
   framework for building dynamic single-page web applications, created by Google.
