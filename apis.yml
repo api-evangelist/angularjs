@@ -7,7 +7,7 @@ apis:
       - Controllers
       - Dependency Injection
       - Directives
-      - End Of Life
+      - End of Life
       - Framework
       - JavaScript
       - Legacy
@@ -44,7 +44,7 @@ apis:
       Migration to modern Angular (2+) is strongly recommended.
 name: AngularJS
 tags:
-  - End Of Life
+  - End of Life
   - Framework
   - Frontend
   - Google
