@@ -4,7 +4,7 @@ apis:
   - aid: angularjs:angularjs-core-api
     name: AngularJS Core API
     tags:
-      - Controllers
+      - Controller
       - Dependency Injection
       - Directives
       - End of Life
