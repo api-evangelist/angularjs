@@ -92,6 +92,12 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/angularjs.png
 access: Open Source
 common:
+  - type: Plans
+    url: plans/angularjs-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/angularjs-rate-limits.yml
+  - type: FinOps
+    url: finops/angularjs-finops.yml
   - type: DomainSecurity
     url: security/angularjs-domain-security.yml
   - url: https://angularjs.org/
