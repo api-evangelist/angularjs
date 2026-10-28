@@ -1,4 +1,4 @@
-# AngularJS (angularjs)
+# AngularJS
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,57 +66,102 @@
 
 AngularJS (Angular.js, version 1.x) is the original Angular JavaScript framework for building dynamic single-page web applications, created by Google. It introduced MVC patterns to front-end development with two-way data binding, dependency injection, directives, filters, services, and controllers. AngularJS reached End of Life on December 31, 2021 and is no longer actively maintained. Developers should migrate to the modern Angular framework (v14+).
 
-**URL:** [https://raw.githubusercontent.com/api-evangelist/angularjs/refs/heads/main/apis.yml](https://raw.githubusercontent.com/api-evangelist/angularjs/refs/heads/main/apis.yml)
+**Areas:** End of Life · Framework · Frontend · Google · JavaScript · Legacy · MVC · Open Source · Single Page Application
 
-## Scope
+## AngularJS on APIs.io
 
-- **Type:** Index
-- **Access:** Open Source
+Everything profiled for AngularJS is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/angularjs/](https://apis.io/providers/angularjs/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+### APIs (1)
 
- - End Of Life, Framework, Frontend, Google, JavaScript, Legacy, MVC, Open Source, Single Page Application
+- [AngularJS Core API](https://apis.io/apis/angularjs/angularjs-core-api/) — The AngularJS (Angular.js, version 1.x) core framework API for building dynamic single-page web applications using JavaScript. AngularJS introduced the MVC…
 
-## Timestamps
+### Published properties
 
-- **Created:** 2024-01-01
-- **Modified:** 2026-04-19
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (1)
 
-### AngularJS Core API
+Authentication, trust centre, and vulnerability disclosure.
 
-The AngularJS (Angular.js, version 1.x) core framework API for building dynamic single-page web applications using JavaScript. AngularJS introduced the MVC pattern to front-end development, two-way data binding, dependency injection, directives, filters, services, and controllers. AngularJS reached End of Life on December 31, 2021 and is no longer actively maintained. Migration to modern Angular (2+) is strongly recommended.
+- [Angularjs Domain Security](https://apis.io/security/angularjs/angularjs-domain-security/)
 
-**Human URL:** [https://docs.angularjs.org/api](https://docs.angularjs.org/api)
+#### Plans and pricing (1)
 
-#### Tags:
+Published plans, tiers and prices.
 
- - Controllers, Dependency Injection, Directives, End Of Life, Framework, JavaScript, Legacy, MVC, Services
+- [Angularjs Plans Pricing](https://apis.io/plans/angularjs/angularjs-plans-pricing/)
 
-#### Properties
+#### Rate limits (1)
 
-- [Documentation](https://docs.angularjs.org/api)
-- [Guide](https://docs.angularjs.org/guide)
-- [Tutorial](https://docs.angularjs.org/tutorial)
-- [GitHub](https://github.com/angular/angular.js)
+Published request limits.
 
-## Common Properties
+- [Angularjs Rate Limits](https://apis.io/rate-limits/angularjs/angularjs-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Angularjs Finops](https://apis.io/finops/angularjs/angularjs-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://angularjs.org/)
 - [Documentation](https://docs.angularjs.org/api)
-- [GitHub](https://github.com/angular/angular.js)
-- [GettingStarted](https://docs.angularjs.org/misc/started)
-- [Guide](https://docs.angularjs.org/guide)
-- [Download](https://code.angularjs.org)
-- [CDN](https://ajax.googleapis.com/ajax/libs/angularjs/)
+- [Getting started](https://docs.angularjs.org/misc/started)
 - [Blog](https://blog.angular.io)
-- [StackOverflow](https://stackoverflow.com/questions/tagged/angularjs)
-- [License](https://github.com/angular/angular.js/blob/master/LICENSE)
-- [Guide](https://docs.angularjs.org/misc/migrate)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** API Evangelist
+**Kin Score 13.5** — emerging · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** info@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 67.9 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 13.2 |
+| Developer ergonomics | 23.8 |
+| Access clarity | 7.9 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/angularjs/](https://apis.io/providers/angularjs/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for AngularJS: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/angularjs/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
